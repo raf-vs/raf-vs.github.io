@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://raf-vs.github.io/categories/</loc>
+    <loc>http://example.org/blog/blogpost/</loc>
+    <lastmod>2017-10-25T17:28:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2017-10-25T17:28:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://raf-vs.github.io/</loc>
+    <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://raf-vs.github.io/tags/</loc>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-10-25T17:28:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
     <priority>0</priority>
   </url>
   
